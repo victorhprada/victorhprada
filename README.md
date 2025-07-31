@@ -27,4 +27,5 @@ Turning data into actionable insights and business value.
 
 🌎 Let's Connect
 “Data analytics is not about finding patterns, but about making the right impact.”
+
 Always learning, always curious.
