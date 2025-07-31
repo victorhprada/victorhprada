@@ -23,8 +23,6 @@ Turning data into actionable insights and business value.
 ![SQL](https://img.shields.io/badge/SQL-0773C1?style=for-the-badge&logo=postgresql)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F3631D?style=for-the-badge&logo=jupyter)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![PowerBI](https://img.shields.io/badge/PowerBI-F7B93E?style=for-the-badge&logo=powerbi)
-![Tableau](https://img.shields.io/badge/Tableau-F1E846?style=for-the-badge&logo=tableau)
 
 
 🌎 Let's Connect
