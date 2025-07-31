@@ -24,6 +24,5 @@ FlyAnalyst: Aviation-related data analysis and predictive insights.
 
 
 🌎 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail “Data analytics is not about finding patterns, but about making the right impact.”
-
+“Data analytics is not about finding patterns, but about making the right impact.”
 Always learning, always curious.
