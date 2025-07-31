@@ -12,10 +12,10 @@ Turning data into actionable insights and business value.
 
 📌 Featured Projects
 
-Credit Score Project: Built statistical models to predict and explain credit scores using Python and exploratory analysis.
-Analise de Crimes: Data wrangling and crime analytics with visual storytelling.
-Telecom Data: ETL process, customer churn analysis, and metrics tracking for telecom datasets.
-FlyAnalyst: Aviation-related data analysis and predictive insights.
+- Credit Score Project: Built statistical models to predict and explain credit scores using Python and exploratory analysis.
+- Analise de Crimes: Data wrangling and crime analytics with visual storytelling.
+- Telecom Data: ETL process, customer churn analysis, and metrics tracking for telecom datasets.
+- FlyAnalyst: Aviation-related data analysis and predictive insights.
 
 💡 Skills & Tech Stack
 
