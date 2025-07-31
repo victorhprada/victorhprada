@@ -6,9 +6,9 @@ Turning data into actionable insights and business value.
 
 🏆 Achievements
 
--> Developed and delivered end-to-end analytics projects in data science and automation.
--> Specialist in business data interpretation, credit scoring, and fraud prevention.
--> Experienced with Python, SQL, Jupyter Notebook, and data visualization.
+- Developed and delivered end-to-end analytics projects in data science and automation.
+- Specialist in business data interpretation, credit scoring, and fraud prevention.
+- Experienced with Python, SQL, Jupyter Notebook, and data visualization.
 
 📌 Featured Projects
 
